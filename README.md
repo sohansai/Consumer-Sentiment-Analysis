@@ -78,5 +78,3 @@ We want to make a product as real time as possible. To understand the sentiment 
 
 Getting data from all these data sources is the biggest task. We start with Twitter for now.
 
-All kinds of people share their opinion on Twitter about newly released products. It's one of the right platforms to fetch the data and analyze it. It also provides APIs to collect the data for any given search. We need to create the Twitter developer account, and we are good to use the tweets. Let's explore how to use this API and pull data.
-
